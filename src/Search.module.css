@@ -1,0 +1,57 @@
+.AlbumImage{
+    max-width: 200px;
+    position: relative;
+    top: -10px;
+}
+.MusicData{
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    
+}
+
+.TrackBox{
+    margin-top: 20px;
+    position: relative;
+    border: 1px black solid;
+    width: 400px;
+    height: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(219, 219, 219);
+}
+
+.AlbumName{
+    font-weight: 500;
+    font-size: 16px;
+    max-height: 40px;
+    margin-bottom: 20px;
+}
+
+.audioPlayer{
+    position: absolute;
+    bottom: 10px;
+    right: 50px;
+}
+
+.SearchInput{
+    font-size: 20px;
+    width: 80%;
+    border-radius: 20px;
+    padding-right: 20px;
+    margin-top: 10px;
+    color: black;
+}
+.SearchInput::placeholder{
+    font: 0.8em sans-serif;
+}
+
+.SearchInput::content{
+    margin-left: 20px;
+}
+.ClearBtn{
+    position: absolute;
+    margin-top: 8px;
+    margin-left: -35px;
+}
