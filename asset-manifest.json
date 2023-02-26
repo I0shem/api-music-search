@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/api-music-search/static/css/main.b48d8ec0.css",
+    "main.js": "/api-music-search/static/js/main.26f021b6.js",
+    "index.html": "/api-music-search/index.html",
+    "main.b48d8ec0.css.map": "/api-music-search/static/css/main.b48d8ec0.css.map",
+    "main.26f021b6.js.map": "/api-music-search/static/js/main.26f021b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b48d8ec0.css",
+    "static/js/main.26f021b6.js"
+  ]
+}
